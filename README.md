@@ -9,8 +9,8 @@ This repository contains the 3 datasets used for the paper
 
 If you are going to use any of the firs two dataset you must cite to the original paper
 
- * Barandiaran, X. E., Calleja-López, A., & Cozzo, E. (2020). Defining collective identities in technopolitical interaction networks. Frontiers in Psychology, Accepted.
+ * Barandiaran, X. E., Calleja-López, A., & Cozzo, E. (2020). Defining collective identities in technopolitical interaction networks. *Frontiers in Psychology*, Accepted.
 
-If you are going to use the thir dataset you must cite the following original paper:
+If you are going to use the third dataset you must cite the following original paper:
 
- * Monterde, A., Calleja-López, A., Aguilera, M., Barandiaran, X. E., & Postill, J. (2015). Multitudinous identities: A qualitative and network analysis of the 15M collective identity. Information, Communication & Society, 18(8), 930-950. https://doi.org/10.1080/1369118X.2015.1043315
+ * Monterde, A., Calleja-López, A., Aguilera, M., Barandiaran, X. E., & Postill, J. (2015). Multitudinous identities: A qualitative and network analysis of the 15M collective identity. *Information, Communication & Society*, 18(8), 930-950. https://doi.org/10.1080/1369118X.2015.1043315
